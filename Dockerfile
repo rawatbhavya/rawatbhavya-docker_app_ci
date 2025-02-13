@@ -1,5 +1,5 @@
 FROM busybox
-MAINTAINER ARUN <arunvela@cdac.in>
+MAINTAINER BHAVYA <bhavya.rawat@igtsolutions.com>
 ADD index.html /www/index.html
 EXPOSE 8000
 #create a webserver and sleep forever
